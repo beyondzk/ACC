@@ -1,0 +1,2 @@
+# ACC
+Adversarial Collective Classification
